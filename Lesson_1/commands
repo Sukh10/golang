@@ -1,0 +1,16 @@
+  418  cd github.com
+  419  git clone https://github.com/Sukh10/golang.git
+  420  ls
+  421  cd golang
+  422  ls
+  423  ls -a
+  424  ls
+  425  cd Lesson_1
+  426  go build .
+  427  go mod init
+  428  go mod tidy
+  429  go build .
+  430  ls
+  431  ls -ltr
+  432  ./Lesson_1
+  433  history
